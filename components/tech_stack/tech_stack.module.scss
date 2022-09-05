@@ -1,0 +1,12 @@
+.tech_box {
+  transform: skewX(0deg);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  .heading_secondary {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4rem;
+  }
+}

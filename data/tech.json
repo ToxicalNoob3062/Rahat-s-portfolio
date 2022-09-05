@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Next Js 1",
+    "path": "/next2.png",
+    "delay": -1,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+  },
+  {
+    "name": "Next Js 2",
+    "path": "/next2.png",
+    "delay": 0,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+  },
+  {
+    "name": "Next Js 3",
+    "path": "/next2.png",
+    "delay": 1,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+  },
+  {
+    "name": "Next Js 4",
+    "path": "/next2.png",
+    "delay": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+  },
+  {
+    "name": "Next Js 5",
+    "path": "/next2.png",
+    "delay": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+  }
+]

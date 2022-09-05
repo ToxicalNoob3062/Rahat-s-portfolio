@@ -1,0 +1,28 @@
+@import "../../styles/sassGlobal.scss";
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  font-size: 2rem;
+  background-color: $black-secondary;
+  height: 8rem;
+  align-items: center;
+  &_links {
+    display: flex;
+    justify-content: space-around;
+    width: 65rem;
+    align-items: center;
+  }
+  &_link {
+    display: block;
+    margin: 1rem;
+  }
+  &_heading {
+    margin: 4rem;
+    font-size: 5rem;
+  }
+
+  &_link:hover,
+  &_heading:hover {
+    text-shadow: 0 0 7px $orange-mid, 0 0 10px $orange-mid, 0 0 21px $orange-mid, 0 0 42px;
+  }
+}

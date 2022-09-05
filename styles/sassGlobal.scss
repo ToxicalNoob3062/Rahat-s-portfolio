@@ -1,0 +1,32 @@
+$black-secondary: #151515;
+$orange-light: #f8a145;
+$orange-mid: #f07900;
+$orange-dark: #d35100;
+
+@keyframes animate {
+  0% {
+    opacity: 0;
+    transform: translateY(100%) scale(0.5) skewX(15deg);
+  }
+  5%,
+  20% {
+    opacity: 0.4;
+    transform: translateY(100%) scale(0.7) skewX(15deg);
+  }
+  25%,
+  40% {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0%) scale(1) skewX(15deg);
+  }
+  45%,
+  60% {
+    opacity: 0.4;
+    transform: translateY(-100%) scale(0.7) skewX(15deg);
+  }
+  65%,
+  100% {
+    opacity: 0;
+    transform: translateY(-100%) scale(0.5) skewX(15deg);
+  }
+}
