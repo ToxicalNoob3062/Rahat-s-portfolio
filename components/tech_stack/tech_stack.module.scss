@@ -1,12 +1,22 @@
 .tech_box {
-  transform: skewX(0deg);
+  position: relative;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+  margin: 15rem 0;
+  height: 50rem;
   .heading_secondary {
-    text-align: center;
     text-transform: uppercase;
     font-size: 4rem;
+    display: inline-block;
+  }
+  .stack_icon {
+    display: inline-block;
+    height: 8rem;
+    width: 10rem;
+    background-image: url("/images/fire.png");
+    background-size: cover;
+    cursor: pointer;
+    &:hover {
+      background-image: url("/images/fire2.png");
+    }
   }
 }

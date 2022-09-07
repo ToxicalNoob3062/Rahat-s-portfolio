@@ -1,24 +1,28 @@
-import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import HeroBanner from "../components/banner/banner";
 import Tech from "../components/tech/tech";
 import TechStack from "../components/tech_stack/tech_stack";
-import techs from "../data/tech.json" assert { type: "json" };
-let id = 0;
+import techStacks from "../data/tech.json" assert { type: "json" };
 export default function Home() {
   return (
     <div>
       <HeroBanner />
-      <TechStack stack_title="frontend">
-        {techs.map((tech) => (
-          <Tech //
-            key={id++}
-            data={tech.description}
-            path={tech.path}
-            title={tech.name}
-          />
-        ))}
-      </TechStack>
+      {techStacks.map((techStack) => {
+        return (
+          <TechStack key={techStack.title} stack_title={techStack.title}>
+            {techStack.techs.map((tech) => (
+              <Tech //
+                key={tech.id}
+                id={tech.id}
+                data={tech.description}
+                path={tech.path}
+                title={tech.name}
+                position={tech.pos}
+              />
+            ))}
+          </TechStack>
+        );
+      })}
     </div>
   );
 }

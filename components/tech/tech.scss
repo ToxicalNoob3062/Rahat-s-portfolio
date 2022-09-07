@@ -1,0 +1,60 @@
+@import "../../styles/sassGlobal.scss";
+
+.tech {
+  position: absolute;
+  max-width: 100rem;
+  height: auto;
+  display: flex;
+  background-color: $black-secondary;
+  align-items: center;
+  border: 2px solid white;
+  transition: all 1s ease-out;
+  margin: 0rem;
+  &_preview {
+    background-color: white;
+    border: 1rem solid $orange-dark;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: 30rem;
+    &_img {
+      width: 60%;
+      height: auto;
+    }
+  }
+  &_content {
+    width: 65%;
+    height: 100%;
+    padding: 3rem;
+    &_title {
+      text-align: center;
+      font-size: 2.5rem;
+      color: $orange-light;
+    }
+    &_text {
+      font-size: 2rem;
+    }
+  }
+}
+
+.hidden {
+  top: 0;
+  z-index: -1;
+  transform: translate(25%, 45%) scale(1);
+}
+.top {
+  z-index: 1;
+  top: -50px;
+  transform: translate(25%, 45%) scale(1);
+}
+.bottom {
+  z-index: 1;
+  top: 50px;
+  transform: translate(25%, 45%) scale(1);
+}
+.middle {
+  z-index: 5;
+  top: 0;
+  transform: translate(25%, 45%) scale(1.05);
+}

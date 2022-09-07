@@ -5,7 +5,7 @@ export default function HeroBanner(props) {
   return (
     <div className={`${styles.hero_banner}`}>
       <div className={`${styles.hero_container}`}>
-        <img className={`${styles.bio_pic}`} src="me3.jpg" alt="rahat" />
+        <img className={`${styles.bio_pic}`} src="/images/me3.jpg" alt="rahat" />
       </div>
       <h1 className={`${styles.heading_primary}`}>Hello!! I am Rahat.</h1>
     </div>

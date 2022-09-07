@@ -1,32 +1,82 @@
 [
   {
-    "name": "Next Js 1",
-    "path": "/next2.png",
-    "delay": -1,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+    "title": "frontend",
+    "techs": [
+      {
+        "name": "Next Js",
+        "path": "/images/next2.png",
+        "pos": "hidden",
+        "id": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "React",
+        "path": "/images/react1.png",
+        "id": 1,
+        "pos": "top",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "SCSS",
+        "path": "/images/sass2.png",
+        "pos": "bottom",
+        "id": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "GSAP",
+        "path": "/images/gsap.png",
+        "pos": "hidden",
+        "id": 3,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Combos!",
+        "path": "/images/combo.jpg",
+        "pos": "middle",
+        "id": 4,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      }
+    ]
   },
   {
-    "name": "Next Js 2",
-    "path": "/next2.png",
-    "delay": 0,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
-  },
-  {
-    "name": "Next Js 3",
-    "path": "/next2.png",
-    "delay": 1,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
-  },
-  {
-    "name": "Next Js 4",
-    "path": "/next2.png",
-    "delay": 2,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
-  },
-  {
-    "name": "Next Js 5",
-    "path": "/next2.png",
-    "delay": 2,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+    "title": "backend",
+    "techs": [
+      {
+        "name": "Node Js",
+        "path": "/images/node.webp",
+        "pos": "hidden",
+        "id": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Fastify",
+        "path": "/images/fastify.png",
+        "id": 1,
+        "pos": "top",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "colyseus",
+        "path": "/images/colyseus.png",
+        "pos": "bottom",
+        "id": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Django",
+        "path": "/images/django.png",
+        "pos": "hidden",
+        "id": 3,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Api!",
+        "path": "/images/api2.png",
+        "pos": "middle",
+        "id": 4,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      }
+    ]
   }
 ]
