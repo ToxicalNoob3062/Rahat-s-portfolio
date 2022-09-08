@@ -72,9 +72,75 @@
       },
       {
         "name": "Api!",
-        "path": "/images/api2.png",
+        "path": "/images/api3.png",
         "pos": "middle",
         "id": 4,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      }
+    ]
+  },
+  {
+    "title": "languages",
+    "techs": [
+      {
+        "name": "JavaScript",
+        "path": "/js2.png",
+        "pos": "middle",
+        "id": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Typscript",
+        "path": "/ts.png",
+        "id": 1,
+        "pos": "top",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Python",
+        "path": "/python3.png",
+        "pos": "bottom",
+        "id": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "C Program",
+        "path": "/c.png",
+        "pos": "hidden",
+        "id": 3,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      }
+    ]
+  },
+  {
+    "title": "Automation",
+    "techs": [
+      {
+        "name": "JavaScript",
+        "path": "/js2.png",
+        "pos": "middle",
+        "id": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Typscript",
+        "path": "/ts.png",
+        "id": 1,
+        "pos": "top",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Python",
+        "path": "/python3.png",
+        "pos": "bottom",
+        "id": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "C Program",
+        "path": "/c.png",
+        "pos": "hidden",
+        "id": 3,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       }
     ]

@@ -8,7 +8,7 @@
   overflow: hidden;
   border-radius: 50%;
   box-shadow: 0px 0px 1rem #fff;
-  background: linear-gradient(transparent, rgba($orange-dark, 0.8));
+  background: linear-gradient(transparent, rgba($orange-mid, 0.6));
 
   .bio_pic {
     width: auto;
@@ -26,6 +26,9 @@
 }
 .hero_banner {
   margin-top: 10rem;
+  background-image: linear-gradient(to bottom, #2c3e50 15%, black 90%);
+  margin: 10rem;
+  margin-bottom: 0;
 }
 
 .heading_primary {

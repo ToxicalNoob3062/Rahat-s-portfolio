@@ -9,7 +9,6 @@
   align-items: center;
   border: 2px solid white;
   transition: all 1s ease-out;
-  margin: 0rem;
   &_preview {
     background-color: white;
     border: 1rem solid $orange-dark;
@@ -41,20 +40,20 @@
 .hidden {
   top: 0;
   z-index: -1;
-  transform: translate(25%, 45%) scale(1);
+  transform: translate(18%, 25%) scale(1);
 }
 .top {
   z-index: 1;
   top: -50px;
-  transform: translate(25%, 45%) scale(1);
+  transform: translate(18%, 25%) scale(1);
 }
 .bottom {
   z-index: 1;
   top: 50px;
-  transform: translate(25%, 45%) scale(1);
+  transform: translate(18%, 25%) scale(1);
 }
 .middle {
   z-index: 5;
   top: 0;
-  transform: translate(25%, 45%) scale(1.05);
+  transform: translate(18%, 25%) scale(1.05);
 }
