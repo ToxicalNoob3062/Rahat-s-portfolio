@@ -7,7 +7,7 @@
         "path": "/images/next2.png",
         "pos": "hidden",
         "id": 0,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+        "description": "ismail dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
         "name": "React",
@@ -57,7 +57,7 @@
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
-        "name": "colyseus",
+        "name": "Colyseus",
         "path": "/images/colyseus.png",
         "pos": "bottom",
         "id": 2,
@@ -71,7 +71,7 @@
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
-        "name": "Api!",
+        "name": "API",
         "path": "/images/api3.png",
         "pos": "middle",
         "id": 4,
@@ -84,28 +84,28 @@
     "techs": [
       {
         "name": "JavaScript",
-        "path": "/js2.png",
+        "path": "/images/js2.png",
         "pos": "middle",
         "id": 0,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
         "name": "Typscript",
-        "path": "/ts.png",
+        "path": "/images/ts.png",
         "id": 1,
         "pos": "top",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
         "name": "Python",
-        "path": "/python3.png",
+        "path": "/images/python3.png",
         "pos": "bottom",
         "id": 2,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
         "name": "C Program",
-        "path": "/c.png",
+        "path": "/images/c.png",
         "pos": "hidden",
         "id": 3,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
@@ -116,30 +116,56 @@
     "title": "Automation",
     "techs": [
       {
-        "name": "JavaScript",
-        "path": "/js2.png",
+        "name": "Cypress",
+        "path": "/images/cypress.svg",
         "pos": "middle",
         "id": 0,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
-        "name": "Typscript",
-        "path": "/ts.png",
+        "name": "Selenium",
+        "path": "/images/selenium.svg",
         "id": 1,
         "pos": "top",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
-        "name": "Python",
-        "path": "/python3.png",
+        "name": "PostMan",
+        "path": "/images/post-man.svg",
+        "pos": "bottom",
+        "id": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      }
+    ]
+  },
+  {
+    "title": "Databases",
+    "techs": [
+      {
+        "name": "Redis",
+        "path": "/redis.svg",
+        "pos": "middle",
+        "id": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "PostGre SQL",
+        "path": "/postgre.svg",
+        "id": 1,
+        "pos": "top",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
+      },
+      {
+        "name": "Mongo DB",
+        "path": "/mongo.svg",
         "pos": "bottom",
         "id": 2,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       },
       {
-        "name": "C Program",
-        "path": "/c.png",
-        "pos": "hidden",
+        "name": "Firestore",
+        "path": "/firestore.png",
+        "pos": "bottom",
         "id": 3,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quisquam libero? Eligendi libero aut ducimus. Quia necessitatibus magni doloribus, ex, voluptates doloremque praesentium tempora, nihil facilis voluptate maxime cupiditate cumque?"
       }

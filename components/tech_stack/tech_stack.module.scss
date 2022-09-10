@@ -1,9 +1,11 @@
+@import "../../styles/sassGlobal.scss";
 .tech_box {
   text-align: center;
   margin: 15rem 0;
   height: 50rem;
   .heading_secondary {
     text-transform: uppercase;
+    text-shadow: 0 0 7px $orange-mid, 0 0 7px $orange-mid, 0 0 7px $orange-mid, 0 0 7px;
     font-size: 4rem;
     display: inline-block;
   }

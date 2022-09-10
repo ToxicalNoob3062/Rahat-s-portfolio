@@ -30,3 +30,9 @@ $orange-dark: #d35100;
     transform: translateY(-100%) scale(0.5) skewX(15deg);
   }
 }
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+}

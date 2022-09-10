@@ -4,8 +4,13 @@
   justify-content: space-between;
   font-size: 2rem;
   background-color: $black-secondary;
+  border-bottom: 3px solid whitesmoke;
   height: 8rem;
   align-items: center;
+  transition: all 0.3s;
+  &:hover {
+    border-bottom: 3px solid $orange-mid;
+  }
   &_links {
     display: flex;
     justify-content: space-around;
